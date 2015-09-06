@@ -1,9 +1,9 @@
 startGit
 =======
 
-GitHub‚ÌƒeƒXƒg
+GitHubã®ãƒ†ã‚¹ãƒˆ
 
-##Œ©o‚µ
+##è¦‹å‡ºã—
 
-#ƒŠƒXƒg
+#ãƒªã‚¹ãƒˆ
 http://tontotakumi.com/web-seisaku/github-debut/#GitHub-2
